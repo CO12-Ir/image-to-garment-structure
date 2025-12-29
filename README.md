@@ -54,6 +54,7 @@ image.jpg.txt # comma-separated structure tags
 
 ```bash
 python main.py
+```
 
 Includes:
 Train / validation split
